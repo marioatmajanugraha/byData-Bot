@@ -18,8 +18,8 @@ Script ini dirancang untuk mengotomatiskan penyelesaian tugas sosial dan mitra (
 
 1. **Clone repository ini**
 ```
-git clone https://github.com/username/taskBot.git
-cd taskBot
+git clone https://github.com/marioatmajanugraha/byData-Bot.git
+cd byData-Bot
 ```
 
 2. **Install Dependencies Pastikan Anda memiliki Node.js terinstall, lalu jalankan:**
@@ -44,7 +44,7 @@ socks5://username:password@host:port
 
 5. **Jalankan Script**
 ```
-node task.js
+node index.obf.js
 ```
 
 6. **Ikuti Instruksi**
